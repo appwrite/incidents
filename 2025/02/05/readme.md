@@ -1,6 +1,6 @@
-# Queue System Incident Report
+# Queue system incident report
 
-## Date and Time
+## Date and time
 
 - **Incident Start:** 2025-02-05 02:32 UTC
 - **Incident End:** 2025-02-05 03:03 UTC
@@ -45,7 +45,7 @@ The incident was caused by resource exhaustion in our queue infrastructure. A si
 
 ## Resolution and recovery
 
-### Immediate Actions
+### Immediate actions
 
 1. Identified affected system components
 2. Implemented infrastructure scaling measures
