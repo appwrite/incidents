@@ -1,4 +1,4 @@
-# Short title
+# Email, SMS, and Realtime Delivery Issues
 
 - **Incident Start:** 2025-08-24 07:26 UTC
 - **Incident End:** 2025-08-26 05:10 UTC
@@ -16,9 +16,9 @@ The issue was first detected when users reported missing or delayed emails and O
 
 ### Affected components
 
-Email delivery (invitations, password resets, notifications)
-OTP delivery via email and SMS
-Realtime events
+- Email delivery (invitations, password resets, notifications)
+- OTP delivery via email and SMS
+- Realtime events
 
 ### User impact
 
@@ -52,8 +52,8 @@ We stabilized the messaging infrastructure by migrating critical queues to a mor
 
 ### What went well
 
-Quick detection of failures and temporary restarts reduced user impact.
-Migration to a more reliable system helped restore stability quickly.
+- Quick detection of failures and temporary restarts reduced user impact.
+- Migration to a more reliable system helped restore stability quickly.
 
 ### What can be improved
 
